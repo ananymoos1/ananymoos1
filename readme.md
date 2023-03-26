@@ -1,5 +1,8 @@
 # Eshan5643
+my age range is 13-20
+i have the attention span of a ps2 memory card
+dark mode > light mode
 
-
-# info:
-- i develop in web (html, css, js), lua, and a little bit of python
+# contact
+- ananymoos | revolt.chat
+- @eshan5643:matrix.org | element.io
