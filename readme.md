@@ -4,5 +4,5 @@
 - dark mode > light mode
 
 # contact
-- ananymoos | revolt.chat
-- @eshan5643:matrix.org | element.io
+- ananymoos | [revolt.chat](https://revolt.chat)
+- @eshan5643:matrix.org | [element.io](https://element.io
