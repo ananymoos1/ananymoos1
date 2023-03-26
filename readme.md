@@ -5,4 +5,4 @@
 
 # contact
 - ananymoos | [revolt.chat](https://revolt.chat)
-- @eshan5643:matrix.org | [element.io](https://element.io
+- @eshan5643:matrix.org | [element.io](https://element.io)
