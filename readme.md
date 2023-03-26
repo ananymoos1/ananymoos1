@@ -1,7 +1,7 @@
 # Eshan5643
-my age range is 13-20
-i have the attention span of a ps2 memory card
-dark mode > light mode
+- my age range is 13-20
+- i have the attention span of a ps2 memory card
+- dark mode > light mode
 
 # contact
 - ananymoos | revolt.chat
