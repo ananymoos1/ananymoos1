@@ -2,7 +2,7 @@
 - my age range is 13-20
 - i have the attention span of a ps2 memory card
 - dark mode > light mode
-- i know web (HTML, CSS, JS), web, python and some C#
+- i know web (HTML, CSS, JS), lua, python and some C#
 
 # contact
 - ananymoos | [revolt.chat](https://revolt.chat)
