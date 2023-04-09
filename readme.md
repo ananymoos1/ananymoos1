@@ -43,5 +43,5 @@ Hey, I’m ananymoos and welcome to my profile! Here is some information about m
 * Cozmo Homebrew
 
 # Contact
-* ananymoos|[revolt.chat](https://revolt.chat)
+* ananymoos | [revolt.chat](https://revolt.chat)
 * [Matrix](https://matrix.to/#/@eshan5643:matrix.org)
