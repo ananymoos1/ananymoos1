@@ -24,7 +24,7 @@ Hey, I’m ananymoos and welcome to my profile! Here is some information about m
 
 # Info
 * Age group: 13-20
-* My birthday is  <t:1682740800:R>
+* Birthday: 04/29 (April 29th)
 * Gender: Male
 * Pronouns: He/Him/His
 * Religion: Islam
