@@ -33,7 +33,7 @@ Hey, I’m ananymoos and welcome to my profile! Here is some information about m
 
 # Social Links
 * [My Website](https://cyberconnect.tech)
-* [My GitHub](https://github.com/Eshan5643)
+* [My GitHub](https://github.com/ananymoos1)
 * [Latest Project](https://webhooked.eshan5643.repl.co)
 
 # Projects
