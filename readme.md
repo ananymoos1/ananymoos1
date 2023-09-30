@@ -11,7 +11,10 @@ Hey, I’m ananymoos and welcome to my profile! Here is some information about m
 # Fluent Languages
 * English
 * Arabic
-* Bengali 
+* Bengali
+* Russian
+* Urdu
+* Hindi
 
 # Operating Systems
 * Windows 10
@@ -23,12 +26,13 @@ Hey, I’m ananymoos and welcome to my profile! Here is some information about m
 * Ubuntu 21.01
 
 # Info
-* Age group: 13-20
+* Age group: 13-25
 * Birthday: 04/29 (April 29th)
 * Gender: Male
 * Pronouns: He/Him/His
 * Religion: Islam
 * Born In: Jeddah, Saudi Arabia
+* Raised In: Chechnya, Russia
 * Place of Residence: Queens, New York, United States of America
 
 # Social Links
