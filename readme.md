@@ -15,6 +15,7 @@ Hey, I’m ananymoos and welcome to my profile! Here is some information about m
 * Russian
 * Urdu
 * Hindi
+* Dutch
 
 # Operating Systems
 * Windows 10
