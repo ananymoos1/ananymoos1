@@ -39,7 +39,6 @@ Hey, I’m ananymoos and welcome to my profile! Here is some information about m
 # Social Links
 * [My Website](https://cyberconnect.tech)
 * [My GitHub](https://github.com/ananymoos1)
-* [Latest Project](https://webhooked.eshan5643.repl.co)
 
 # Projects
 * iFramed
@@ -50,4 +49,3 @@ Hey, I’m ananymoos and welcome to my profile! Here is some information about m
 # Contact
 * ananymoos#3560 | [revolt.chat](https://revolt.chat)
 * ananymoos | [Discord](https://discord.com)
-* [Matrix](https://matrix.to/#/@eshan5643:matrix.org)
